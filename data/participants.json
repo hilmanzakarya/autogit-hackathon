@@ -1012,5 +1012,18 @@
     "tx_hash": "0x4d2ed3c4122a46bbfbc6f4595fc51d281cdc48c25ac2359e65335d4252cf37de",
     "vault_address": "0xBF04103E4Bc5c9Ab96661A37Fde3fD999e3c58a5",
     "paid_at": "2026-05-29T16:44:00.165Z"
+  },
+  {
+    "entry_number": 79,
+    "github_id": 240472145,
+    "github_login": "kamaltok04-twk",
+    "github_avatar": "https://avatars.githubusercontent.com/u/240472145?v=4",
+    "template_title": "Nowes App",
+    "app_type": "nowes-app",
+    "pr_number": 117,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/117",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
