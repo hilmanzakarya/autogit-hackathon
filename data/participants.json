@@ -1168,5 +1168,18 @@
     "tx_hash": "0x078c304dbc41a6810db91c94ded79137a521c5f4871f436d2bfe075cb57160b2",
     "vault_address": "0x91d91Ac3E8E6Aa7d1D18aA9371dBfDD858Fa06b7",
     "paid_at": "2026-05-29T17:52:36.035Z"
+  },
+  {
+    "entry_number": 91,
+    "github_id": 283411334,
+    "github_login": "Genta-genz",
+    "github_avatar": "https://avatars.githubusercontent.com/u/283411334?v=4",
+    "template_title": "Samudaya Kalepatan",
+    "app_type": "samudaya-kalepatan",
+    "pr_number": 139,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/139",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
