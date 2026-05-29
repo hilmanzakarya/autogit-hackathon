@@ -1064,5 +1064,18 @@
     "tx_hash": "0x3f11ed64c6e7b8d8e49cc89d6ecacbc63dacc76fdd9499fa3a2fd9f10c76166b",
     "vault_address": "0x6DF9124602ac7C8A6d0B63c6c47EDAB39f2312F7",
     "paid_at": "2026-05-29T17:25:05.048Z"
+  },
+  {
+    "entry_number": 83,
+    "github_id": 67137114,
+    "github_login": "kaka0608",
+    "github_avatar": "https://avatars.githubusercontent.com/u/67137114?v=4",
+    "template_title": "NFT Gallery",
+    "app_type": "nft-gallery",
+    "pr_number": 125,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/125",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
